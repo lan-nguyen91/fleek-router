@@ -1,6 +1,6 @@
 {
   "name": "fleek-router",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "A router for the fleek framework",
   "repository": "https://github.com/fleekjs/fleek-router",
   "main": "lib/router.js",
