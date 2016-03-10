@@ -1,6 +1,6 @@
 {
   "name": "fleek-router",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A router for the fleek framework",
   "repository": "https://github.com/fleekjs/fleek-router",
   "main": "lib/router.js",
@@ -18,7 +18,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "fleek-parser": "^1.0.0",
+    "fleek-parser": "^1.2.0",
     "fleek-response": "^0.4.3",
     "fleek-validator": "^0.5.4",
     "fs": "0.0.2",
