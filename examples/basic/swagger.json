@@ -27,6 +27,7 @@
       "get": {
         "description": "Return the web application",
         "tags": ["application"],
+        "operationId" : "default",
         "consumes": ["text/html"],
         "produces": ["text/html"],
         "responses": {
